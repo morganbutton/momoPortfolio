@@ -5,6 +5,7 @@ languageCode = "en"
 defaultContentLanguage = "en"
 title = "Morgan Button"                        # site title                     # 网站标题
 theme = "zozo"
+canonifyURL = true
 
 summaryLength = 100
 paginate = 4                           # shows the number of articles   # 首页显示文章数量
