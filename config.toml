@@ -35,22 +35,18 @@ pygmentscodefencesguesssyntax = true
   name = "Tags"
   weight = 30
   identifier = "tags"
-  url = "/tags/"
+  url = "tags/"
 [[menu.main]]
   name = "Video"
   weight = 40
   identifier = "video"
-  url = "/tags/video"
+  url = "tags/video"
 [[menu.main]]
   name = "3D"
   weight = 40
   identifier = "3D"
-  url = "/tags/3D"
-[[menu.main]]
-  name = "Code"
-  weight = 40
-  identifier = "code"
-  url = "/tags/code"
+  url = "tags/3D"
+
 
 [params]
   subTitle = "My Portfolio/Blog Site"                                       # site's subTitle              # 网站二级标题
