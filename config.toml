@@ -1,6 +1,6 @@
 
 
-baseURL = "http://example.org/"
+baseURL = "https://morganbutton.github.io/momoPortfolio/"
 languageCode = "en"
 defaultContentLanguage = "en"
 title = "Morgan Button"                        # site title                     # 网站标题
