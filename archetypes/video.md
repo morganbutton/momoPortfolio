@@ -11,5 +11,3 @@ tags: ['posts', 'video']
 
 
 
-## MP4 Video Heading
- {{< video  src="/videos/placeholdvid.mp4/" type="video/mp4" preload="auto" >}}
