@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Morgan Button</title>
-    <link>https://morganbutton.github.io/momoPortfolio/</link>
-    <description>Recent content on Morgan Button</description>
+    <title>Posts on Morgan Button</title>
+    <link>https://morganbutton.github.io/momoPortfolio/posts/</link>
+    <description>Recent content in Posts on Morgan Button</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 06 Jun 2021 21:21:56 -0400</lastBuildDate><atom:link href="https://morganbutton.github.io/momoPortfolio/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 06 Jun 2021 21:21:56 -0400</lastBuildDate><atom:link href="https://morganbutton.github.io/momoPortfolio/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Post01</title>
       <link>https://morganbutton.github.io/momoPortfolio/posts/post01/</link>
@@ -15,25 +15,6 @@
       <guid>https://morganbutton.github.io/momoPortfolio/posts/post01/</guid>
       <description>Photo Heading Photo Excerpt &amp;ldquo;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&amp;rdquo;
 Youtube Video Heading   &amp;ldquo;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</description>
-    </item>
-    
-    <item>
-      <title>Vid01</title>
-      <link>https://morganbutton.github.io/momoPortfolio/video/vid01/</link>
-      <pubDate>Sun, 06 Jun 2021 21:21:33 -0400</pubDate>
-      
-      <guid>https://morganbutton.github.io/momoPortfolio/video/vid01/</guid>
-      <description>Youtube Video Heading   MP4 Video Heading There should have been a video here but your browser does not seemto support it.</description>
-    </item>
-    
-    <item>
-      <title>TresD01</title>
-      <link>https://morganbutton.github.io/momoPortfolio/models/tresd01/</link>
-      <pubDate>Sun, 06 Jun 2021 21:21:07 -0400</pubDate>
-      
-      <guid>https://morganbutton.github.io/momoPortfolio/models/tresd01/</guid>
-      <description>3D model  3D Model Placeholder  by mobuttons  on Sketchfab
-</description>
     </item>
     
   </channel>

@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Morgan Button</title>
-    <link>https://morganbutton.github.io/momoPortfolio/</link>
-    <description>Recent content on Morgan Button</description>
+    <title>posts on Morgan Button</title>
+    <link>https://morganbutton.github.io/momoPortfolio/tags/posts/</link>
+    <description>Recent content in posts on Morgan Button</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 06 Jun 2021 21:21:56 -0400</lastBuildDate><atom:link href="https://morganbutton.github.io/momoPortfolio/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 06 Jun 2021 21:21:56 -0400</lastBuildDate><atom:link href="https://morganbutton.github.io/momoPortfolio/tags/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Post01</title>
       <link>https://morganbutton.github.io/momoPortfolio/posts/post01/</link>

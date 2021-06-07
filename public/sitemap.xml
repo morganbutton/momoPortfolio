@@ -2,10 +2,39 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://morganbutton.github.io/momoPortfolio/categories/</loc>
-  </url><url>
     <loc>https://morganbutton.github.io/momoPortfolio/</loc>
+    <lastmod>2021-06-06T21:21:56-04:00</lastmod>
+  </url><url>
+    <loc>https://morganbutton.github.io/momoPortfolio/posts/post01/</loc>
+    <lastmod>2021-06-06T21:21:56-04:00</lastmod>
+  </url><url>
+    <loc>https://morganbutton.github.io/momoPortfolio/posts/</loc>
+    <lastmod>2021-06-06T21:21:56-04:00</lastmod>
+  </url><url>
+    <loc>https://morganbutton.github.io/momoPortfolio/tags/posts/</loc>
+    <lastmod>2021-06-06T21:21:56-04:00</lastmod>
   </url><url>
     <loc>https://morganbutton.github.io/momoPortfolio/tags/</loc>
+    <lastmod>2021-06-06T21:21:56-04:00</lastmod>
+  </url><url>
+    <loc>https://morganbutton.github.io/momoPortfolio/video/vid01/</loc>
+    <lastmod>2021-06-06T21:21:33-04:00</lastmod>
+  </url><url>
+    <loc>https://morganbutton.github.io/momoPortfolio/tags/video/</loc>
+    <lastmod>2021-06-06T21:21:33-04:00</lastmod>
+  </url><url>
+    <loc>https://morganbutton.github.io/momoPortfolio/video/</loc>
+    <lastmod>2021-06-06T21:21:33-04:00</lastmod>
+  </url><url>
+    <loc>https://morganbutton.github.io/momoPortfolio/tags/3d/</loc>
+    <lastmod>2021-06-06T21:21:07-04:00</lastmod>
+  </url><url>
+    <loc>https://morganbutton.github.io/momoPortfolio/models/</loc>
+    <lastmod>2021-06-06T21:21:07-04:00</lastmod>
+  </url><url>
+    <loc>https://morganbutton.github.io/momoPortfolio/models/tresd01/</loc>
+    <lastmod>2021-06-06T21:21:07-04:00</lastmod>
+  </url><url>
+    <loc>https://morganbutton.github.io/momoPortfolio/categories/</loc>
   </url>
 </urlset>

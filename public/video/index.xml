@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Videoes on Morgan Button</title>
+    <link>https://morganbutton.github.io/momoPortfolio/video/</link>
+    <description>Recent content in Videoes on Morgan Button</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 06 Jun 2021 21:21:33 -0400</lastBuildDate><atom:link href="https://morganbutton.github.io/momoPortfolio/video/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Vid01</title>
+      <link>https://morganbutton.github.io/momoPortfolio/video/vid01/</link>
+      <pubDate>Sun, 06 Jun 2021 21:21:33 -0400</pubDate>
+      
+      <guid>https://morganbutton.github.io/momoPortfolio/video/vid01/</guid>
+      <description>Youtube Video Heading   MP4 Video Heading There should have been a video here but your browser does not seemto support it.</description>
+    </item>
+    
+  </channel>
+</rss>
